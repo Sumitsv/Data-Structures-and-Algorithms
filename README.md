@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sumitsv/mydsarepo24/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sumitsv/mydsarepo24/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sumitsv/mydsarepo24/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
