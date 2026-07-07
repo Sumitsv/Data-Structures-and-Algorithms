@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sumitsv/mydsarepo24/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Sumitsv/mydsarepo24/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sumitsv/mydsarepo24/tree/master/0169-majority-element) |
+| [0239-sliding-window-maximum](https://github.com/Sumitsv/mydsarepo24/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/Sumitsv/mydsarepo24/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -47,4 +48,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sumitsv/mydsarepo24/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sumitsv/mydsarepo24/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sumitsv/mydsarepo24/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sumitsv/mydsarepo24/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sumitsv/mydsarepo24/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
