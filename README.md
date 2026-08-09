@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sumitsv/mydsarepo24/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Sumitsv/mydsarepo24/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Sumitsv/mydsarepo24/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumitsv/mydsarepo24/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Sumitsv/mydsarepo24/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sumitsv/mydsarepo24/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sumitsv/mydsarepo24/tree/master/0217-contains-duplicate) |
 ## Sorting
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Sumitsv/mydsarepo24/tree/master/0196-delete-duplicate-emails) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Sumitsv/mydsarepo24/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
