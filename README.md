@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sumitsv/mydsarepo24/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Sumitsv/mydsarepo24/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitsv/mydsarepo24/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sumitsv/mydsarepo24/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sumitsv/mydsarepo24/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Sumitsv/mydsarepo24/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Sumitsv/mydsarepo24/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sumitsv/mydsarepo24/tree/master/0013-roman-to-integer) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sumitsv/mydsarepo24/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
