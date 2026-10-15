@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sumitsv/mydsarepo24/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sumitsv/mydsarepo24/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/Sumitsv/mydsarepo24/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Sumitsv/mydsarepo24/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumitsv/mydsarepo24/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Sumitsv/mydsarepo24/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Sumitsv/mydsarepo24/tree/master/0713-subarray-product-less-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sumitsv/mydsarepo24/tree/master/0239-sliding-window-maximum) |
+| [0713-subarray-product-less-than-k](https://github.com/Sumitsv/mydsarepo24/tree/master/0713-subarray-product-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sumitsv/mydsarepo24/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/Sumitsv/mydsarepo24/tree/master/0713-subarray-product-less-than-k) |
 ## Database
 |  |
 | ------- |
