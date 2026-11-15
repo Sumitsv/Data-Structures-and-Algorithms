@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Sumitsv/mydsarepo24/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/Sumitsv/mydsarepo24/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumitsv/mydsarepo24/tree/master/0713-subarray-product-less-than-k) |
+| [1572-matrix-diagonal-sum](https://github.com/Sumitsv/mydsarepo24/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sumitsv/mydsarepo24/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Sumitsv/mydsarepo24/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
